@@ -11,18 +11,17 @@ These scripts were created in combined efforts by joew00 and Tinboye
   Once downloaded place the steamcmd.exe in a folder where you want steamcmd to reside.
   example: C:\servers\steamcmd\steamcmd.exe
   
-  Once you have a location set, then edit all 3 batch files and set steamcmd path.
-    ::Path to SteamCMD.exe without \
-    set "steamcmdpath=C:\path\to\steamCMD"
+  Once you have a location set, run steamcmd.exe so it will download all the rest of the files.
+  
+  Then edit all 3 batch files and set steamcmd path.
+     set "steamcmdpath=C:\path\to\steamCMD"
 
 - download_arma3server.bat
   this batch file will allow a person to download arma 3 server files to a set server folder specified.
-  adjust these paths to suite your needs.
+  This batch you will need to specify where you want the Arma 3 Server files installed.
   
-    ::Path to SteamCMD.exe without \
-    set "steamcmdpath=C:\path\to\steamCMD"
-    ::::Path to arma3server.exe without \
-    set "serverpath=C:\path\to\server"
+      set "steamcmdpath=C:\path\to\steamCMD"
+      set "serverpath=C:\path\to\server"
 
 - download_singlemod.bat
   this batch file will allow a person to download a single arma 3 steam workshop item.
