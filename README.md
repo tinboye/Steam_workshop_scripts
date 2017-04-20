@@ -21,8 +21,7 @@ These scripts were created in combined efforts by joew00 and Tinboye
   
     ::Path to SteamCMD.exe without \
     set "steamcmdpath=C:\path\to\steamCMD"
-    ::
-    ::Path to arma3server.exe without \
+    ::::Path to arma3server.exe without \
     set "serverpath=C:\path\to\server"
 
 - download_singlemod.bat
