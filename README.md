@@ -2,7 +2,7 @@
 
 This is a collection of windows batch files
 
-These scripts were created by joew00 and Tinboye
+These scripts were created in combined efforts by joew00 and Tinboye
 - joew00 - http://www.exilemod.com/profile/89117-joew00/
 - tinboye - http://www.exilemod.com/profile/5022-tinboye/
 
