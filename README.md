@@ -24,21 +24,20 @@ These scripts were created in combined efforts by joew00 and Tinboye
       set "serverpath=C:\path\to\server"
 
 - download_singlemod.bat
-  this batch file will allow a person to download a single arma 3 steam workshop item.
-  When you run this batch file, you will be prompted to enter your steam username and password and then the workshop ID#
-  you can get the ID# from the steam workshop URL.
-  Example: you search google for arma 3 Cup Core and you get the url:
-  https://steamcommunity.com/sharedfiles/filedetails/?id=583496184
-  the 583496184 is the ID# you would want to enter to download CUP Core.
-  
+this batch file will allow a person to download a single arma 3 steam workshop item.
+When you run this batch file, you will be prompted to enter your steam username and password and then the workshop ID# you can get the ID# from the steam workshop URL.
+Example: you search google for arma 3 Cup Core and you get the url:
+https://steamcommunity.com/sharedfiles/filedetails/?id=583496184
+the 583496184 is the ID# you would want to enter to download CUP Core.  
 
 - download_bulk_mods.bat
-  this batch file will allow a person to download multiple arma 3 steam workshop items.
-  this batch file is like the above, except you will see a list of mods.
+this batch file will allow a person to download multiple arma 3 steam workshop items.
+this batch file is like the above, except you will see a list of mods.
   Example:
-set ModsName[14]="@CUP_Terrains_Core"
-set Mods[14]=583496184
-set ModDownload[14]=false
+   set ModsName[14]="@CUP_Terrains_Core"
+   set Mods[14]=583496184
+   set ModDownload[14]=false
 
-so you set the ModDownload[14]=true
+so you set the 
+   ModDownload[14]=true
 repeat this for every mod you want to download, then run the batch file.
