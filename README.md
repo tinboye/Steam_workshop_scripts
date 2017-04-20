@@ -30,5 +30,3 @@ These scripts were created in combined efforts by joew00 and Tinboye
 
 - download_bulk_mods.bat
   this batch file will allow a person to download multiple arma 3 steam workshop items.
-  
-  
