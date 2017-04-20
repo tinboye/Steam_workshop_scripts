@@ -17,15 +17,16 @@ These scripts were created in combined efforts by joew00 and Tinboye
      set "steamcmdpath=C:\path\to\steamCMD"
 
 - download_arma3server.bat
-  this batch file will allow a person to download arma 3 server files to a set server folder specified.
-  This batch you will need to specify where you want the Arma 3 Server files installed.
+this batch file will allow a person to download arma 3 server files to a set server folder specified.
+This batch you will need to specify where you want the Arma 3 Server files installed.
   
       set "steamcmdpath=C:\path\to\steamCMD"
       set "serverpath=C:\path\to\server"
 
 - download_singlemod.bat
 this batch file will allow a person to download a single arma 3 steam workshop item.
-When you run this batch file, you will be prompted to enter your steam username and password and then the workshop ID# you can get the ID# from the steam workshop URL.
+When you run this batch file, you will be prompted to enter your steam username and password and then the workshop ID# you can 
+get the ID# from the steam workshop URL.
 Example: you search google for arma 3 Cup Core and you get the url:
 https://steamcommunity.com/sharedfiles/filedetails/?id=583496184
 the 583496184 is the ID# you would want to enter to download CUP Core.  
