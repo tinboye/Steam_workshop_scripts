@@ -45,3 +45,6 @@ so you set the
       set ModDownload[14]=true
 
 repeat this for every mod you want to download, then run the batch file.
+
+#adding
+I will be adding a batch file that will create symbolic links for each mod within the bulk mods script.
